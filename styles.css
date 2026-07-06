@@ -11,7 +11,7 @@ body {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 300;
     font-style: normal;
-    background: url('market.webp') no-repeat center center fixed;
+    background: url('/atividade-formulario/imagens/market.webp') no-repeat center center fixed;
     background-size: cover;
     background-color: #4285f4;
     margin: 0;
